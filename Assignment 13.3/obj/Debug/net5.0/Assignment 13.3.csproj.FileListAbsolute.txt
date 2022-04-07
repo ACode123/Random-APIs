@@ -1,0 +1,28 @@
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\Assignment 13.3.csproj.AssemblyReference.cache
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\Assignment 13.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\Assignment 13.3.AssemblyInfoInputs.cache
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\Assignment 13.3.AssemblyInfo.cs
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\Assignment 13.3.csproj.CoreCompileInputs.cache
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\Assignment 13.3.MvcApplicationPartsAssemblyInfo.cs
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\Assignment 13.3.MvcApplicationPartsAssemblyInfo.cache
+C:\Assignments\pcad5\Assignment 13.3\bin\Debug\net5.0\appsettings.Development.json
+C:\Assignments\pcad5\Assignment 13.3\bin\Debug\net5.0\appsettings.json
+C:\Assignments\pcad5\Assignment 13.3\bin\Debug\net5.0\Assignment 13.3.exe
+C:\Assignments\pcad5\Assignment 13.3\bin\Debug\net5.0\Assignment 13.3.deps.json
+C:\Assignments\pcad5\Assignment 13.3\bin\Debug\net5.0\Assignment 13.3.runtimeconfig.json
+C:\Assignments\pcad5\Assignment 13.3\bin\Debug\net5.0\Assignment 13.3.runtimeconfig.dev.json
+C:\Assignments\pcad5\Assignment 13.3\bin\Debug\net5.0\Assignment 13.3.dll
+C:\Assignments\pcad5\Assignment 13.3\bin\Debug\net5.0\Assignment 13.3.pdb
+C:\Assignments\pcad5\Assignment 13.3\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Assignments\pcad5\Assignment 13.3\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Assignments\pcad5\Assignment 13.3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Assignments\pcad5\Assignment 13.3\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\scopedcss\bundle\Assignment 13.3.styles.css
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\staticwebassets\Assignment 13.3.StaticWebAssets.Manifest.cache
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\Assignment 13.3.RazorTargetAssemblyInfo.cache
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\Assignment 13.3.csproj.CopyComplete
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\Assignment 13.3.dll
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\refint\Assignment 13.3.dll
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\Assignment 13.3.pdb
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\Assignment 13.3.genruntimeconfig.cache
+C:\Assignments\pcad5\Assignment 13.3\obj\Debug\net5.0\ref\Assignment 13.3.dll
