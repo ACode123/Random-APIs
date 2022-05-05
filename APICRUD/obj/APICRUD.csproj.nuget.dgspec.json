@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Assignments\\pcad5\\APICRUD\\APICRUD.csproj": {}
+    "C:\\Assignments\\MSSA\\Random-APIs\\APICRUD\\APICRUD.csproj": {}
   },
   "projects": {
-    "C:\\Assignments\\pcad5\\APICRUD\\APICRUD.csproj": {
+    "C:\\Assignments\\MSSA\\Random-APIs\\APICRUD\\APICRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Assignments\\pcad5\\APICRUD\\APICRUD.csproj",
+        "projectUniqueName": "C:\\Assignments\\MSSA\\Random-APIs\\APICRUD\\APICRUD.csproj",
         "projectName": "APICRUD",
-        "projectPath": "C:\\Assignments\\pcad5\\APICRUD\\APICRUD.csproj",
+        "projectPath": "C:\\Assignments\\MSSA\\Random-APIs\\APICRUD\\APICRUD.csproj",
         "packagesPath": "C:\\Users\\qwert\\.nuget\\packages\\",
-        "outputPath": "C:\\Assignments\\pcad5\\APICRUD\\obj\\",
+        "outputPath": "C:\\Assignments\\MSSA\\Random-APIs\\APICRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
